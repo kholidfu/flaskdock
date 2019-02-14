@@ -1,0 +1,11 @@
+*~
+*.pyc
+.vscode
+__pycache__/
+bin/
+etc/
+include/
+lib/
+share/
+pip-selfcheck.json
+.Python
